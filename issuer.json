@@ -6,7 +6,7 @@
   "id": "https://raw.githubusercontent.com/JeanPch/OpenBadges-Hackathon-IHME-amU/main/issuer.json",
   "type": "Issuer",
   "name": "Hackathon IHME - Polytech Marseille - Aix-Marseille Université",
-  "url": "https://www.univ-amu.fr",
+  "url": "https://polytech.univ-amu.fr/fr/formations/masteres-specialises/ingenierie-du-sport-ihme",
   "description": "Badge officiel certifiant la participation au Hackathon IHME organisé par Aix-Marseille Université (amU).",
   "image": "https://raw.githubusercontent.com/JeanPch/OpenBadges-Hackathon-IHME-amU/main/logo.png",
   "email": "jean.panchairi@univ-amu.fr"
