@@ -1,0 +1,13 @@
+{
+  "@context": [
+    "https://www.w3.org/2018/credentials/v1",
+    "https://purl.imsglobal.org/spec/ob/v3p0/context-3.0.2.json"
+  ],
+  "id": "https://raw.githubusercontent.com/JeanPch/OpenBadges-Hackathon-IHME-amU/main/issuer.json",
+  "type": "Issuer",
+  "name": "Hackathon IHME - Polytech Marseille - Aix-Marseille Université",
+  "url": "https://www.univ-amu.fr",
+  "description": "Badge officiel certifiant la participation au Hackathon IHME organisé par Aix-Marseille Université (amU).",
+  "image": "https://raw.githubusercontent.com/JeanPch/OpenBadges-Hackathon-IHME-amU/main/logo.png",
+  "email": "jean.panchairi@univ-amu.fr"
+}
